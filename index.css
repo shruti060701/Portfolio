@@ -1,0 +1,82 @@
+.navbar-inverse {
+    background: #000033;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+body {
+    padding-top: 70px;
+    background-color: #000033;
+    background-image: url("nick-collins-FzrpzMLI3x0-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90px;
+}
+
+.intro {
+    padding-top: 40px;
+    padding-bottom: 70px;
+    color: white;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    /* Fallback color */
+    background: rgba(0, 0, 0, 0.8);
+    width: 50%;
+    margin: 0 auto;
+    position: relative;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: "Sansita Swashed", cursive;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: "Dancing Script", cursive;
+}
+
+hr {
+    width: 50%;
+}
+
+.sub {
+    padding-left: 5px;
+}
+
+.sub h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.sub h3 {
+    font-size: 30px;
+    color: white;
+}
+
+h6 {
+    color: white;
+    font-size: 15px;
+}
+
+footer {
+    background: white;
+    width: 100%;
+    padding: 2%;
+}
+
+.social {
+    font-size: 400%;
+}
+
+.social a {
+    color: #000033;
+    padding: 3%;
+}

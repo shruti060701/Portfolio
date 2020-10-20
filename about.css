@@ -1,0 +1,108 @@
+.navbar-inverse {
+    background: #000033;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+body {
+    padding-top: 70px;
+    background-color: #000033;
+    background-image: url("annie-spratt-sWpq9fQgfg0-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+footer {
+    background: white;
+    width: 100%;
+    padding: 2%;
+}
+
+.social {
+    font-size: 400%;
+}
+
+.social a {
+    color: #000033;
+    padding: 3%;
+}
+
+.intro {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    /* Fallback color */
+    background: rgba(0, 0, 0, 0.8);
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.Education {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding: 30px;
+    color: white;
+    text-align: left;
+    background: rgb(0, 0, 0);
+    /* Fallback color */
+    background: rgba(0, 0, 0, 0.8);
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.Education img {
+    width: 50px;
+    height: 5%;
+    float: left;
+}
+
+.Education thumbnail {
+    width: 6%;
+    height: 6%;
+    margin: auto;
+}
+
+.aboutText {
+    font-size: large;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    font-family: 'Chilanka', cursive;
+    padding-top: 80px;
+    padding-left: 90px;
+}
+
+
+.edu {
+    text-align: center;
+}
+
+.thumbnail {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.container h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+}
+
+h2{
+   font-family: 'Patrick Hand', cursive;
+}

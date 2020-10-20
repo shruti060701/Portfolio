@@ -1,0 +1,63 @@
+.navbar-inverse {
+    background: #000033;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+body {
+    padding-top: 70px;
+    background-color: #000033;
+    background-image: url("nick-collins-FzrpzMLI3x0-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+footer {
+    background: white;
+    width: 100%;
+    padding: 2%;
+}
+
+.social {
+    font-size: 400%;
+}
+
+.social a {
+    color: #000033;
+    padding: 3%;
+}
+
+.intro {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    font-family: "Ubuntu", sans-serif;
+}
+
+
+.jumbotron {
+    background: rgba(0, 0, 0, .8);
+    width: auto;
+    height: auto;
+}
+
+.container {
+    color: white;
+}
+
+#Width {
+    width: 100%;
+    height: 20%;
+}
+
